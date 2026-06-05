@@ -1,1 +1,18 @@
 
+# If-Statement and Loop Questions 
+
+This folder contains my solutions to various problem-solving challenges using **C++**.
+
+##  Main Focus
+The goal of these problems is to practice and master:
+* **Conditional Statements** (`if` statements).
+* **Loops** (`while` and `for` loops).
+
+##  Solved Problems:
+* **E. Max:** Finding the maximum number among a set of numbers.
+* **F. Multiplication table:** Printing the multiplication table for a number.
+* **G. Factorial:** Calculating the factorial of a number.
+* **K. Divisors:** Finding and printing all divisors of a number.
+* **L. GCD:** Finding the Greatest Common Divisor between two numbers.
+* **N. Numbers Histogram:** Printing a visual histogram based on given numbers.
+
