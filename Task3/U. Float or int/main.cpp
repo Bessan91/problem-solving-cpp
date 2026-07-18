@@ -16,6 +16,5 @@ int main()
     {
         cout << "float " << secandPart << " " << n - secandPart << endl;
     }
-
     return 0;
 }
