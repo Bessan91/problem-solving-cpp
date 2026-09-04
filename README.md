@@ -1,8 +1,6 @@
-# 🚀 C++ Problem Solving & Data Structures Journey
+#  C++ Problem Solving & Data Structures 
 
-Welcome to my personal repository! This space serves as a continuous log of my journey in mastering algorithms, data structures, control flow, and **Object-Oriented Programming (OOP)** concepts using **C++**.
-
-Here, I document my solutions to various programming challenges, tracking my progress as I build clean, efficient, and well-structured code.
+This repository serves as a personal log of my ongoing journey to master algorithms, data structures, control flow, and Object-Oriented Programming (OOP) concepts in C++. Here, I document my solutions to various programming challenges, tracking my progress toward writing clean, efficient, and well-structured code.
 
 ---
 
