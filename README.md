@@ -1,4 +1,4 @@
-# 🚀 C++ Problem Solving & OOP Journey
+# 🚀 C++ Problem Solving & Data Structures Journey
 
 Welcome to my personal repository! This space serves as a continuous log of my journey in mastering algorithms, data structures, control flow, and **Object-Oriented Programming (OOP)** concepts using **C++**.
 
@@ -6,7 +6,7 @@ Here, I document my solutions to various programming challenges, tracking my pro
 
 ---
 
-## Repository Structure
+##  Repository Structure
 
 | Section | Topic / Key Concepts | Status |
 | :--- | :--- | :--- |
@@ -16,6 +16,7 @@ Here, I document my solutions to various programming challenges, tracking my pro
 | **📁 Task4-OOP** | Object-Oriented Programming Fundamentals | Completed |
 | **📁 Task5-OOPI(PART2)** | Object-Oriented Programming (Part 2) | Completed |
 | **📁 Task6-OOP(PART3)** | Operator Overloading, Custom Exceptions & Polymorphism | Completed |
+| **📁 Task7-CustomVector** | Custom ArrayList / Vector Implementation from Scratch | Completed |
 | **📁 if-statement-and-loop-questions** | Control Flow, Conditionals & Loops | Completed |
 | **📁 RectangleArea** | Practical Geometry Application | Completed |
 
@@ -37,7 +38,7 @@ Focuses on conditional statements and basic decision-making logic:
 
 ---
 
-### Task 3 Solutions
+###  Task 3 Solutions
 Covers fundamental math logic, arrays, and matrix checks:
 * **H. One Prime** — Prime number verification.
 * **P. Minimize Number** — Array division operations.
@@ -73,6 +74,14 @@ Advanced Object-Oriented Programming exercises covering operator overload, custo
 
 ---
 
+###  Task 7 (Custom Vector / ArrayList from Scratch)
+Building a dynamic array data structure from scratch using raw pointers and memory management:
+* **Find (`find`)** — Linear search algorithm to return index or check element existence.
+* **Remove From Index (`removeAt`)** — Dynamic element removal with left-shifting index adjustment.
+* **Copy Constructor** — Deep copying mechanism to safely duplicate dynamic memory allocated arrays without pointer aliasing.
+
+---
+
 ###  Loop & If-Statement Questions
 Practical problems focused on iterations and conditional flows:
 * **E. Max** — Peak value tracking in dynamic sequences.
@@ -82,4 +91,3 @@ Practical problems focused on iterations and conditional flows:
 * **L. GCD** — Euclidean-style common divisor discovery.
 * **N. Numbers Histogram** — Pattern rendering with nested loops.
 
----
